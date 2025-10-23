@@ -21,3 +21,5 @@ while get_x() != get_target_x() or get_y() != get_target_y():
         turn_left()
 
 destroy_voldemort()
+
+un ptit truc mature
